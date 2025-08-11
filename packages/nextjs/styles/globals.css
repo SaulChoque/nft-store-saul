@@ -183,3 +183,12 @@
 @theme inline {
   --font-space-grotesk: var(--font-space-grotesk);
 }
+.font-space-grotesk {
+  font-family: var(--font-space-grotesk), sans-serif;
+}
+.font-raleway {
+  font-family: var(--font-raleway), sans-serif;
+}
+.font-oswald {
+  font-family: var(--font-oswald), sans-serif;
+}
